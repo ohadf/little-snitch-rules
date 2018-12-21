@@ -1,5 +1,5 @@
 # little-snitch-rules
-Generate Little Snitch rules to block adware and malware websites. Host lists from Steven Black.
+Generate Little Snitch rules to block adware and malware websites. Host lists from Steven Black (https://github.com/StevenBlack/hosts).
 
 ## Subscribe to rule group in Little Snitch
 If you don't want to create your own list, you can subscribe to the one I generated.
