@@ -3,7 +3,7 @@ Generate Little Snitch rules to block adware and malware websites. Host lists fr
 
 ## Subscribe to rule group in Little Snitch
 If you don't want to create your own list, you can subscribe to the one I generated.
-In Little Snitch, File --> New Rule Group Subscription, enter the url:
+In Little Snitch, `File` --> `New Rule Group Subscription`, enter the url:
 https://raw.githubusercontent.com/ohadf/little-snitch-rules/master/adware_malware_list.lsrules
 
 Requires Little Snitch 4.3 to handle large rule files.
